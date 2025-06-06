@@ -1,0 +1,4 @@
+Invoking command in '/home/ljm/catkin_ws/build/driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ljm/catkin_ws/install/process:/opt/ros/humble /usr/bin/cmake --build /home/ljm/catkin_ws/build/driver -- -j14 -l14
+Invoked command in '/home/ljm/catkin_ws/build/driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ljm/catkin_ws/install/process:/opt/ros/humble /usr/bin/cmake --build /home/ljm/catkin_ws/build/driver -- -j14 -l14
+Invoking command in '/home/ljm/catkin_ws/build/driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ljm/catkin_ws/install/process:/opt/ros/humble /usr/bin/cmake --install /home/ljm/catkin_ws/build/driver
+Invoked command in '/home/ljm/catkin_ws/build/driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ljm/catkin_ws/install/process:/opt/ros/humble /usr/bin/cmake --install /home/ljm/catkin_ws/build/driver

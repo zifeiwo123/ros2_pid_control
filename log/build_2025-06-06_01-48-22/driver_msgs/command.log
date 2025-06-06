@@ -1,0 +1,2 @@
+Invoking command in '/home/ljm/catkin_ws/build/driver_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ljm/catkin_ws/src/driver_msgs -DCMAKE_INSTALL_PREFIX=/home/ljm/catkin_ws/install/driver_msgs
+Invoked command in '/home/ljm/catkin_ws/build/driver_msgs' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ljm/catkin_ws/src/driver_msgs -DCMAKE_INSTALL_PREFIX=/home/ljm/catkin_ws/install/driver_msgs
